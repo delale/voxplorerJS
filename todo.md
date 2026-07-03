@@ -1,5 +1,4 @@
 # TODO document for LiRI-DORA.
-test
 - [x] pages basic layout
 - [x] README
 - [!] Check bug issue [issue #2](https://github.com/liri-uzh/voxplorer/issues/2#issue-3681707256) 
